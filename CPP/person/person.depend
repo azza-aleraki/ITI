@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731140029 source:f:\cpp\last day\person\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

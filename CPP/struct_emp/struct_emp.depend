@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730464391 source:f:\cpp\struct_emp\main.cpp
+	<iostream>
+	<cstring>
+

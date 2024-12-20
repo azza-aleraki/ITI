@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1731588637 source:f:\data-structure\day1\implement-menue-with-linked-list\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	<conio.h>
+
+1731705805 source:d:\data-structure\day2\implement-menue-with-linked-list\main.cpp
+	<iostream>
+	<Windows.h>
+	<string>
+	<conio.h>
+
